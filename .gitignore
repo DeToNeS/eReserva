@@ -14,3 +14,7 @@ storage/
 .env.example
 Homestead.yaml
 Homestead.json
+.gitattributes
+
+# PHPStorm
+.idea/
